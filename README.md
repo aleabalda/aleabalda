@@ -19,9 +19,12 @@ Cloud & DevOps: AWS, Terraform
 Databases: MySQL
 
 ## 👨‍💻 Projects:
-### Obituary Generator (React.js, AWS, Terraform, Netlify): A full stack application for generating and vocalizing obituaries.
-### Flight Reservation Application (Java, MySQL): A Java-based app for booking flights with various user roles.
-### Data Management Project (Python, MySQL): A program for database access and management, utilizing Python libraries for data manipulation.
+### Obituary Generator (React.js, AWS, Terraform, Netlify): 
+A full stack application for generating and vocalizing obituaries.
+### Flight Reservation Application (Java, MySQL): 
+A Java-based app for booking flights with various user roles.
+### Data Management Project (Python, MySQL): 
+A program for database access and management, utilizing Python libraries for data manipulation.
 
 ## 📈 Interests:
 Continuous learning in Software Engineering
