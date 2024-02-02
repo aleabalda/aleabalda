@@ -19,7 +19,7 @@ Cloud & DevOps: AWS, Terraform
 Databases: MySQL
 
 ## :computer: Current Project:
-### Expenses Tracker (React.js, Firebase)
+### Expenses Tracker (React.js, Firebase, Tailwind)
 A full stack application for tracking expenses and incomes.
 
 ## 👨‍💻 Projects:
