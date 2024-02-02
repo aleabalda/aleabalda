@@ -18,6 +18,10 @@ Web Development: React, HTML, CSS
 Cloud & DevOps: AWS, Terraform
 Databases: MySQL
 
+## Current Project:
+### Expenses Tracker (React.js, Firebase)
+A full stack application for tracking expenses and incomes.
+
 ## 👨‍💻 Projects:
 ### Obituary Generator (React.js, AWS, Terraform, Netlify): 
 A full stack application for generating and vocalizing obituaries.
