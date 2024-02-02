@@ -18,7 +18,7 @@ Web Development: React, HTML, CSS
 Cloud & DevOps: AWS, Terraform
 Databases: MySQL
 
-## Current Project:
+## :computer: Current Project:
 ### Expenses Tracker (React.js, Firebase)
 A full stack application for tracking expenses and incomes.
 
