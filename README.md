@@ -19,8 +19,8 @@ Cloud & DevOps: AWS, Terraform
 Databases: MySQL
 
 ## :computer: Current Project:
-### Expenses Tracker (React.js, Firebase, Tailwind)
-A full stack application for tracking expenses and incomes.
+### Produly, A Productivity App (React.js)
+A front-end productivity app with features such as todo lists and an event calendar.
 
 ## 👨‍💻 Projects:
 ### Obituary Generator (React.js, AWS, Terraform, Netlify): 
