@@ -23,7 +23,7 @@ Cloud & DevOps: AWS, Terraform
 
 Databases: MySQL
 
-## :computer: Current Project:
+## :computer: Current Personal Project:
 ### Produly, A Productivity App (React.js)
 A front-end productivity app with features such as todo lists and an event calendar.
 
