@@ -22,14 +22,6 @@ Databases: MySQL
 ### Produly, A Productivity App (React.js)
 A front-end productivity app with features such as todo lists and an event calendar.
 
-## 👨‍💻 Projects:
-### Obituary Generator (React.js, AWS, Terraform, Netlify): 
-A full stack application for generating and vocalizing obituaries.
-### Flight Reservation Application (Java, MySQL): 
-A Java-based app for booking flights with various user roles.
-### Data Management Project (Python, MySQL): 
-A program for database access and management, utilizing Python libraries for data manipulation.
-
 ## 📈 Interests:
 Continuous learning in Software Engineering
 Exploring new technologies and methodologies
