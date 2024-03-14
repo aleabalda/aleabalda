@@ -16,8 +16,11 @@ B.S. Software Engineering, University of Calgary (2021-2025)
 ## 🔧 Skills:
 
 Programming: Python, Javascript, Java, C++, C
+
 Web Development: React, HTML, CSS
+
 Cloud & DevOps: AWS, Terraform
+
 Databases: MySQL
 
 ## :computer: Current Project:
