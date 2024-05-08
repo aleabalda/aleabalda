@@ -17,7 +17,7 @@ B.S. Software Engineering, University of Calgary (2021-2025)
 
 Programming: Python, Javascript, Java, C++, C
 
-Web Development: React, HTML, CSS
+Web Development: JavaScript, TypeScript, React, HTML, CSS, TailwindCSS
 
 Cloud & DevOps: AWS, Terraform
 
