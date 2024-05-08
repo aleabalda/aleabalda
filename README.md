@@ -24,8 +24,9 @@ Cloud & DevOps: AWS, Terraform
 Databases: MySQL
 
 ## :computer: Current Personal Project:
-### Produly, A Productivity App (React.js)
-A front-end productivity app with features such as todo lists and an event calendar.
+### My Portfolio
+
+As of right now I am working on building a portfolio from scratch using React w/ TypeScript as well as TailwindCSS. This way I can showcase my projects in an easier way to recruiters as well as demonstrate my design and front-end skills simultaneously.
 
 ## 📈 Interests:
 Continuous learning in Software Engineering
