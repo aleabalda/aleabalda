@@ -24,9 +24,9 @@ B.S. Software Engineering, University of Calgary (2021-2025)
 **Databases**: MySQL, MongoDB, sqlite
 
 ## :computer: Current Personal Project:
-### My Portfolio
+### Study Rooms
 
-As of right now I am working on building a portfolio from scratch using React w/ TypeScript as well as TailwindCSS. This way I can showcase my projects in an easier way to recruiters as well as demonstrate my design and front-end skills simultaneously.
+As of right now I am working on building a web app for users to create a room and invite people to it so that they can have group study sessions. Rooms will have features like shared pomodore timers, todo lists, chats, etc.
 
 ## 📈 Interests:
 Continuous learning in Software Engineering
