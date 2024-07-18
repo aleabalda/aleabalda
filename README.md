@@ -19,9 +19,9 @@ B.S. Software Engineering, University of Calgary (2021-2025)
 
 **Web Development**: JavaScript, TypeScript, React, HTML, CSS, TailwindCSS
 
-**Cloud & DevOps**: AWS, Terraform
+**Cloud & DevOps**: AWS, Terraform, Docker
 
-**Databases**: MySQL
+**Databases**: MySQL, MongoDB, sqlite
 
 ## :computer: Current Personal Project:
 ### My Portfolio
