@@ -2,7 +2,7 @@
 
 My name is Alessandro Baldassarre and I am a **third-year software engineering student** at the Univeristy of Calgary. 
 
-Throughout my academic journey, I have developed a passion and love for web development (especially front-end). I am currently working on mastering React with TypeScript and will be also learning Next.js very soon. Check out my LinkedIn at <a target="_blank" href="https://www.linkedin.com/in/aleabalda/">aleabalda</a>.
+Throughout my academic journey, I have developed a passion and love for full-stack development. I am currently studying for the AWS Certified Cloud Practitioner Cert. Check out my LinkedIn at <a target="_blank" href="https://www.linkedin.com/in/aleabalda/">aleabalda</a>.
 
 ## 🎯 Current Goal: 
 Seeking software engineering internships to develop innovative solutions, hone technical skills, and contribute to projects in a dynamic team environment.
@@ -11,7 +11,7 @@ Seeking software engineering internships to develop innovative solutions, hone t
 Calgary, AB
 
 ## 📚 Education: 
-B.S. Software Engineering, University of Calgary (2021-2025)
+B.S. Software Engineering, University of Calgary (2021-2026)
 
 ## 🔧 Skills:
 
@@ -19,19 +19,14 @@ B.S. Software Engineering, University of Calgary (2021-2025)
 
 **Web Development**: JavaScript, TypeScript, React, HTML, CSS, TailwindCSS
 
-**Cloud & DevOps**: AWS, Terraform, Docker
+**Cloud & DevOps**: AWS, Microsoft Azure, Terraform, Docker
 
 **Databases**: MySQL, MongoDB, sqlite
-
-## :computer: Current Personal Project:
-### Study Rooms
-
-As of right now I am working on building a web app for users to create a room and invite people to it so that they can have group study sessions. Rooms will have features like shared pomodore timers, todo lists, chats, etc.
 
 ## 📈 Interests:
 Continuous learning in Software Engineering
 Exploring new technologies and methodologies
-Traveling, Hiking, Boxing, Self-Improvement, Running
+Fashion, Modeling, Traveling, Hiking, Boxing, Self-Improvement, Running
 🔗 Connect with me:
 
 LinkedIn: aleabalda
